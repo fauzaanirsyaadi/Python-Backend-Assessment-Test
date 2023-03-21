@@ -1,0 +1,1 @@
+{"000001": {"nama": "John Doe", "nik": "1234567890123456", "no_hp": "081234567890", "no_rekening": "000001", "saldo": 400000, "mutasi": [{"waktu": "2023-03-21 07:08:24", "kode_transaksi": "tabung", "nominal": 500000}, {"waktu": "2023-03-21 07:08:31", "kode_transaksi": "tarik", "nominal": 100000}]}}
